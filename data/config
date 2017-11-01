@@ -1,1 +1,20 @@
-
+do local _ = {
+  admins = {},
+  disabled_channels = {},
+  enabled_plugins = {
+    "banhammer",
+    "groupmanager",
+    "msg-checks",
+    "plugins",
+    "tools",
+    "fun"
+  },
+  moderation = {
+    data = "./data/moderation.json"
+  },
+  sudo_users = {
+    364464502,
+  }
+}
+return _
+end
