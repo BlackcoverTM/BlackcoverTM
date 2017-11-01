@@ -1,1 +1,2 @@
-# BlackcoverTM
+کانال تلگرامی جهت اطلاع از اخرین وضعیت 
+BlackcoverTeaM
